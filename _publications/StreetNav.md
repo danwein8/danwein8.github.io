@@ -1,7 +1,7 @@
 ---
 title: "StreetNav: Leveraging Street Cameras to Support Precise Outdoor Navigation for Blind Pedestrians"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/StreetNav
 excerpt:
 date: 2023-09-30
 venue: 'arXiv'
