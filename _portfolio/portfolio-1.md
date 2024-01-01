@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "StreetNav: Leveraging Street Cameras to Support Precise Outdoor Navigation for Blind Pedestrians"
+excerpt: "Using existing CCTV as a navigational system for blind pedestrians<br/><img src='/images/teaser-streetnav.png'>"
 collection: portfolio
 ---
 
